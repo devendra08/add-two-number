@@ -1,2 +1,2 @@
 # add-two-number
-addition
+take two numbers from users 
