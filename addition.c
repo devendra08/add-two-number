@@ -1,4 +1,4 @@
-# two-number-of-two-numbers
+//two-number-of-two-numbers
 
 #include<stdio.h>
 #include<conio.h>
